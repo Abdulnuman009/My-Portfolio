@@ -4,10 +4,10 @@ Welcome to my GitHub portfolio repository! This repository contains the source c
 
 ## About Me
 
-I am a final year student at Muffakham Jah College of Engineering and Technology, pursuing a Bachelor of Engineering (BE) in Information Technology. A passionate tech enthusiast and aspiring IT professional, my interests span a range of programming languages and full-stack web development technologies.
+I am a final year student at Muffakham Jah College of Engineering and Technology, pursuing a Bachelor of Engineering (BE) in Information Technology.
 
 ## Skills
 
 - Programming Languages: C, C++, Java (OOPs), Python, JavaScript
-- Web Development: HTML, CSS, JS, ReactJs, NodeJs, Flask
+- Web Development: HTML, CSS, JavaScript , ReactJs, NodeJs, Flask
 - Specializations: Machine Learning, Data Structures, Database Systems
