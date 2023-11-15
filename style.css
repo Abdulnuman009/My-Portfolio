@@ -13,11 +13,11 @@
 }
 
 .title {
-    font-size: 4.5rem;
+    font-size: 3rem;
 }
 
 .desc {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .text {
@@ -35,7 +35,7 @@
 }
 
 .font-size {
-    font-size: 1.7em;
+    font-size: 1.1em;
     line-height: 2;
     margin-bottom: 15px;
 }
@@ -46,6 +46,6 @@
 
 #color {
     color: white;
-    font-size: 25px;
+    font-size: 17px;
     padding: 15px;
 }
